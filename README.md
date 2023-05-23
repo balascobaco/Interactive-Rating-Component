@@ -12,13 +12,10 @@ Users should be able to:
 
 
 ### Screenshot
-
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+![image](https://github.com/balascobaco/Interactive-Rating-Component/assets/127403553/b932a06e-3df2-4a91-9553-57093c1a03e8)
+![image](https://github.com/balascobaco/Interactive-Rating-Component/assets/127403553/f490e3f3-aac2-4cc6-9b62-858215b08e5a)
+![image](https://github.com/balascobaco/Interactive-Rating-Component/assets/127403553/57196117-aec4-4534-a32e-ff797eea9610)
+![image](https://github.com/balascobaco/Interactive-Rating-Component/assets/127403553/8892b427-b2cd-41e1-bd93-153002940365)
 
 ### Built with
 
